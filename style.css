@@ -4,6 +4,5 @@ html {
 
 body {
     margin: 0;
-    min-height: vh;
-    background: dodgerblue;
+    min-height: 100vh;
 }
